@@ -1,0 +1,14 @@
+<paths>
+    <external-path
+        name="path1"
+        path="mvp" />
+    <external-path
+        name="path2"
+        path=".com.byl.mvp" />
+    <external-path
+        name="path3"
+        path="Android/data/com.byl.mvp/" />
+    <root-path
+        name="root"
+        path="" />
+</paths>
